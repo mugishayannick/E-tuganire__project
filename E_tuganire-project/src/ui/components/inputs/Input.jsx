@@ -23,12 +23,12 @@ function input() {
       required
       />
       </label>
-      <label>Date of birth</label>
+      <label></label>
       <input
       type="date" id="start" name="trip-start"
       value="2022-07-22"
       />
-      <label for="gender-select">Gender:</label>
+      <label for="gender-select"></label>
 
         <select id="gender-select">
             <option value="">Gender</option>

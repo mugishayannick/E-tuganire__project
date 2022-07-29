@@ -1,0 +1,27 @@
+.navigation-bar {
+    border: 1px solid white;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 200px;
+    background-color: whitesmoke;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-items ul li {
+    color: black;
+    list-style-type: none;
+    margin-bottom: 120px;
+    margin-left: 20px;
+}
+
+.menu-items ul {
+    display: flex;
+    vertical-align: top;
+}
