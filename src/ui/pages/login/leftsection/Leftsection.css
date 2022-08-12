@@ -1,0 +1,13 @@
+.left-container {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+.left-img {
+    width: 550px;
+  
+}
