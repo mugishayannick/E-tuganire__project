@@ -1,0 +1,15 @@
+.login-container {
+    width: 100%;
+    display: flex;
+}
+
+.left-container {
+    width: 50%;
+    height: 767px;
+    /* border: 1px solid black; */
+}
+
+.right-container {
+    width: 50%;
+    /* border: 1px solid black; */
+}
