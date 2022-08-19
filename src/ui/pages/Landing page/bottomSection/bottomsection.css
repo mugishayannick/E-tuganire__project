@@ -1,0 +1,55 @@
+.enjoy{
+    background-color: #F4DBB4;
+    height: 550px;
+    padding-left: 610px;
+    padding-right: 100px;
+    line-height: 82px;
+    display: flex;
+    align-items: center;
+    margin: 30px 0px;
+}
+.enjoy h1{
+    font-size: 62px;
+    /* width: 80%; */
+}
+.call-to-action h1{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.channels{
+    /* color: rgba(245, 245, 245, 0.795); */
+    /* margin-top: 130px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.single-channel:hover{
+    /* background-color: #f99c102f; */
+    /* border: 1px solid #F99B10; */
+    cursor: pointer;
+}
+.single-channel{
+    /* border: 1px solid #333; */
+    /* background-color: rgba(255, 0, 0, 0.479); */
+    /* padding: 20px; */
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}   
+.middle-section-icon{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    font-size: 50px;
+    background-color: #F99B10;
+    border-radius: 50%;
+    color: #fff;
+    padding: 5px;
+    /* margin-left: 90px; */
+}
