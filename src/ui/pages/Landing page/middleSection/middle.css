@@ -1,0 +1,43 @@
+
+.title{
+    margin: 40px ;
+    margin-left: 150px;
+}
+.trending-music{
+    display: flex;
+    /* margin-left: 90px; */
+    /* margin: 40px 90px; */
+
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.single-trend{
+    background-color: #d9d9d9;
+    /* width: 20%;  */
+}
+.single-trend img{
+    width: 236px;
+    height: 210px;
+}
+.artist-description{
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+} 
+.top-middle button{
+    background-color: #F99B10;
+    border-radius: 50px;
+    padding: 10px 25px;
+    border: none;
+    width: 200px;
+    font-size: 24px;
+}
+.view-all-btn{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;    
+}

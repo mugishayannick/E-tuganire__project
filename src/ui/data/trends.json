@@ -1,0 +1,26 @@
+{
+    "trending-music":[
+        {
+            "songCoverUrl":"https://s3-alpha-sig.figma.com/img/5aeb/c6b0/2e68f49422c7a536178c0e22c20069bc?Expires=1661126400&Signature=ZEck1yxDdCfmfUcEnRRa-jCwXLz-vjrQd9mDIi45dHQjQ4p2Gs1TVMWDttPgG1P~6ErP7ol6C24bOx6wm22LyRNAn8bUOGgtUfgR9HBat8RHCguQ3z4jViz3jyrAlJwkHFA8AtzGSY~GbRUc-Cu1ynDmXZyVQYMHthrAhGm4ZTZyX5a50FwCSSqBU3JQoflOxLaOAty5HdFfwtiCrrmI0Zpz-3NI3KS~fbO-qyGBrL5xHNiudF0cfKqROkzEyMzLED1k250Aow9jiRoVKUtAlq3lzmbPSqcptsUlJ0dAJI7l8TUH0xBbr6pxWVWFkEbIa4Rfyf0AX~KbKU6ULxWJkA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "artistName":"Juno Kizigenza",
+            "songName":"Ndarura"
+        },
+        {
+            "songCoverUrl":"https://s3-alpha-sig.figma.com/img/13e9/61df/cef5979dddde5ecb28e779cd31beaac6?Expires=1661126400&Signature=CVAcbgYvB9o~qg1V1h2rP-9tcm~6T8Gr-YkuHd8P9DdG3DUEpAa4Y9UBwIXW5fVWITIVV0UdYgc0xjZ9~ml7RtWO87OT3nNpY6dpZ5N94DSbKkd~Kuo~Dknh6I70t9ZPWEv~2r1R41X7Lp0F4eYrv5ucTIKwmFal6S6gCXxQiYdFvDG~29H9rMM96XwWTPikuDAnhsFIPdQ2uoOVglFssKw5dke3Od05rQbbwz6lx6lH03n0tP94OxN0F9zYI3SeYfL5Aids0UPfBYDpDFXhTKUEwNZoGTHYGGaSOvB~kc0iNfyIQFk5GYCpSP-x-ikxmXp2kQxBibnZ5qQvXmdTqA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "artistName":"Chris Eazy",
+            "songName":"Inana"
+        },
+        {
+            "songCoverUrl":"https://s3-alpha-sig.figma.com/img/d0b6/26d2/f0375f8fe9946e5ca504ac0cea8ec6b1?Expires=1661126400&Signature=ZhViAedPY8WWSK9SMLp89Em8U~BcpdtjC6bbuNStFj5GKGrWA0CmOW32e6xecbPb2o08Nujcixpnm3KGWUX5FaVjz8k4E8qg1mGPE4k5yaGSd2BIqbrzYUXHlmqIDYxkfIKnYv-y2W~4x-g~Gbzg3PotCT6gDKSagiHeVIE-xQnPwBpJxldwlVqVky9n6rsOraQHAOTVQiscVhXOJ0CbygsEie29ZacerS3AcJKFcgRShXtKjorAve~WxXxAeQawJlDmrQw11d6aq~IaJIA~7dloUzfasTHuxLujuvQg5dlfIfe6wInwODWZ-2e5lM5DPEjt2Zjh9IHkCm1dqTBhSw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "artistName":"Mistaek",
+            "songName":"Ku cyaro"
+        },
+        {
+            "songCoverUrl":"https://s3-alpha-sig.figma.com/img/e8a5/f096/c472bfdfbe1c76d184db359b932f82c3?Expires=1661126400&Signature=TlUH5KAYiHIrblcvt~KT1-Mkv7z3ANyUUQVVuY9IgzfbgkMstGq~maumrXsB1nIfGhNlDiqkU4P0QpfasEFnpXvnq8YMSLeGPF9PeNLqn0uqJ-MGZQFl9YELIW7MdilUa4VLmdePDVsxwDbC3jLVXcuq-gdvVXvO06pyhrvZMIFEDf6bTX7Lm82IJcrFmnXXMuh72WpnYA6a~xGlv5wUWhwYJZbz8vAYYgXaYfwis~moyiA2j4fC4PySz6s0z1Jdxlk6J~OpZsU-5PJfTBsE6OY-GWZaf8lZqxcq7a5SmqP6cR3prV9lIH3lESnCACuepCmv3xu55Kq6FF~fBUCp1A__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+            "artistName":"Element",
+            "songName":"Kashe"
+        }
+        
+
+    ]
+}
